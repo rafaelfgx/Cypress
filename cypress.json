@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://jsonplaceholder.cypress.io",
+    "video": false
+}
