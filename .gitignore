@@ -1,0 +1,8 @@
+﻿*.bat
+*.jpeg
+*.jpg
+*.mp4
+*.png
+dist
+node_modules
+package-lock.json
